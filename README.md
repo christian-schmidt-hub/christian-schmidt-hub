@@ -1,10 +1,11 @@
 # Hi everyone 👾
 
-##About
-- Ola, eu me chamo Christian, e atualmente cursando Sistemas de informacao 2/8 - UFSM
-- Tenho conhecimento em C, JS.
-- Estou atualmente aprendendo Java, C++
-- 
+## About
+- Hello, my name is Christian, and I'm currently studying Information Systems 💻 (2/8) at UFSM.
+- I have knowledge in C, JS. 💾
+- I'm currently learning Java, C++. 📚
+- Working on personal projects to gain more knowledge. 🚀
+- Looking for internship opportunities. 👨‍💻
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
