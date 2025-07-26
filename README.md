@@ -5,7 +5,7 @@
 - 💾 I have knowledge in C, JS. 
 - 📚 I'm currently learning Java, C++. 
 - 🚀 Working on personal projects to gain more knowledge.
-- 👨‍💻 Looking for internship opportunities. 👨‍💻
+- 👨‍💻 Looking for internship opportunities.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
