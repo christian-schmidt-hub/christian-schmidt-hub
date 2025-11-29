@@ -3,7 +3,7 @@
 ## About
 - Hello, my name is Christian, and I'm currently studying Information Systems 💻 2/8 at UFSM (Federal University of Santa Maria).
 - 💾 I have knowledge in C. 
-- 📚 I'm currently learning Java, C++. 
+- 📚 I'm currently learning Js, Java, C++. 
 - 🚀 Working on personal projects to gain more knowledge.
 - 👨‍💻 Looking for internship opportunities.
 
