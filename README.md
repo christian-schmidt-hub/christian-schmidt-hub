@@ -3,16 +3,14 @@
 ## About
 - Hello, my name is Christian, and I'm currently studying Information Systems 💻 3/8 at UFSM (Federal University of Santa Maria).
 - 💾 I have knowledge in C. 
-- 📚 I'm currently learning Js, Java, C++. 
+- 📚 I'm currently learning C++. 
 - 🚀 Working on personal projects to gain more knowledge.
 - 👨‍💻 Looking for internship opportunities.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Chris-Cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="center" alt="Chris-Java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </div>
 
 ##
